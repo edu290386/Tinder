@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("https://media.istockphoto.com/id/904838508/es/vector/corazones-rojo-sim%C3%A9trico-conjunto-de-iconos-planos.jpg?s=612x612&w=0&k=20&c=o57gn9GlvWtOqMEV_Wqu4Soq_VkPLZ9ZhSOM00IJdGQ=");
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 170px;
+}
+
+button {
+    background-color: aquamarine;
+    border-radius: 100px;
+    padding: 30px 30px;
+    text-align: center;
+
+}
+
+.acepta{
+    position: fixed;
+    top: 360px;
+    left: 720px;
+}
